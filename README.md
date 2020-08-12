@@ -4,33 +4,41 @@
 
 ### Included Files
 
-#### Unit 1
+#### Unit 1 - **Introduction to Python**
 
-- placeholder for unit information
+- Teaches how to navigate IDLE, comment, and print()
 
-#### Unit 2
+#### Unit 2 - **Data Types & Variables**
 
-- placeholder for unit information
+- Teaches various data types used in Python and variable operations
 
-#### Unit 3
+#### Unit 3 - **Strings & Lists**
 
-- placeholder for unit information
+- Teaches string and list operations in addition to indexing in Python
 
-#### Unit 4
+#### Unit 4 - **If Else Statements**
 
-- placeholder for unit information
+- Teaches if else statements and advanced operations for strings and lists
 
-#### Unit 5
+#### Unit 5 - **Loops**
 
-- placeholder for unit information
+- Teaches for and while loop operations
 
-#### Unit 6
+#### Unit 6 - **Debugging**
 
-- placeholder for unit information
+- Teaches try: except: statements, common errors, and best practices
 
-#### Unit 7
+#### Unit 7 - **Dictionaries**
 
-- placeholder for unit information
+- Teaches dictionary operations and best practices
+
+#### Unit 8 - **Modules**
+
+- Teaches installation, documentation, and importation of modules
+
+#### Unit 9 - **Classes**
+
+- Teaches classes operations and best practices
 
 ***
 Created by **Gavin Ng** for Middle Grade Stem
