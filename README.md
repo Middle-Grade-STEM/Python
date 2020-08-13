@@ -28,19 +28,19 @@
 
 - Teaches function operations and best practices
   
-#### Unit 6 - **Debugging**
+#### Unit 7 - **Debugging**
 
 - Teaches try: except: statements, common errors, and best practices
 
-#### Unit 7 - **Dictionaries**
+#### Unit 8 - **Dictionaries**
 
 - Teaches dictionary operations and best practices
 
-#### Unit 8 - **Modules**
+#### Unit 9 - **Modules**
 
 - Teaches installation, documentation, and importation of modules
 
-#### Unit 9 - **Classes**
+#### Unit 10 - **Classes**
 
 - Teaches classes operations and best practices
 
