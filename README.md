@@ -1,4 +1,4 @@
-# Middle Grade Stem - Python
+# Middle Grade Stem - Python ANSWER KEY
 
 ## All the assignments and projectes required for our Python course
 
@@ -23,7 +23,11 @@
 #### Unit 5 - **Loops**
 
 - Teaches for and while loop operations
+  
+#### Unit 6 - **Functions**
 
+- Teaches function operations and best practices
+  
 #### Unit 6 - **Debugging**
 
 - Teaches try: except: statements, common errors, and best practices
