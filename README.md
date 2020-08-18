@@ -1,6 +1,6 @@
 # Middle Grade Stem - Python ANSWER KEY
 
-## All the assignments and projectes required for our Python course
+## All the assignments and projects required for our Python course
 
 ### Included Files
 
