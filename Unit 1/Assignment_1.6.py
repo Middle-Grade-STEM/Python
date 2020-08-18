@@ -3,7 +3,7 @@ Middle Grade Stem - Python
 Assignment 1.6
 
 INSTRUCTIONS:
-Print the message "Hello World!" inside a comment
+Comment out a line of code that prints "Hello World!"
 
 EXAMPLE OUTPUT:
 [this section intentionally left blank]
