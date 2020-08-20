@@ -45,6 +45,6 @@
 - Teaches classes operations and best practices
 
 ***
-Created by **Gavin Ng** for Middle Grade Stem
+Created by **Gavin Ng** and **Eric Liu** for Middle Grade Stem
 
-For questions, comments, and concerns please contact us [here](<middlegradestem@gmail.com>)
+For questions, comments, and concerns please contact us [here](<mailto:middlegradestem@gmail.com>)
