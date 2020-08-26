@@ -6,7 +6,7 @@
 
 #### Unit 1 - **Introduction to Python**
 
-- Teaches how to navigate IDLE, comment, input(), and print()
+- Teaches how to navigate the text editor, comment, input(), and print()
 
 #### Unit 2 - **Data Types & Variables**
 
