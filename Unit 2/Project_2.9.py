@@ -4,14 +4,12 @@ Project 2.9
 
 INSTRUCTIONS:
 Ask the user for a word, and store it into a variable. Do this three times.
-Then, put the words together into a list. Print out the list.
+Then, add the words together using any form.
 
-Ask the user for a number, and store it into a variable as a number.
-Then, reassign the value of the previous list to include the new number variable.
-Print out the list again.
+Then, ask the user for a number, and store it to a variable as an integer.
+Print out the first three words, as well as the number, using plus sign concatenation
 
 EXAMPLE OUTPUT:
-["Gavin", "Is", "Cool"]
-["Gavin", "Is", "Cool", 42]
-
+Gavin Is Cool
+Gavin Is Cool 42
 """

@@ -10,6 +10,5 @@ EXAMPLE OUTPUT:
 <class 'int'>
 <class 'float'>
 <class 'str'>
-<class 'list'>
 
 """

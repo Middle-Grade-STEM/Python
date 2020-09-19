@@ -10,6 +10,5 @@ EXAMPLE OUTPUT:
 Whole number: 50
 Decimal number: 100.5
 Word: dog
-List: [50, 100.5, "dog"]
 
 """
