@@ -10,3 +10,6 @@ EXAMPLE OUTPUT:
 bababooey
 
 """
+
+jeff = {10 : 1024, "high schoolers": "big", "eric": "gavin", "poop": "haha so funny"}
+print(jeff[10])

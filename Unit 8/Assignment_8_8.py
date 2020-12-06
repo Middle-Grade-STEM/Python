@@ -11,3 +11,9 @@ EXAMPLE OUTPUT:
 420
 
 """
+try:
+	x = int(input("Enter a number: "))
+	print(x)
+except ValueError:
+	print("an error message")
+

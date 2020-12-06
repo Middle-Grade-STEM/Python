@@ -8,3 +8,5 @@ Practice importing and using a package of your choice.
 EXAMPLE OUTPUT:
 
 """
+import math
+x = math.pi
